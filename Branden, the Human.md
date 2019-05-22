@@ -1,16 +1,3 @@
-#### Notes and TODO
-
-What to do to escalate/get an exec involved.
-
-* BLUF
-* Complete the plan/action/recommendation.
-* Productive conflict.
-
-Emails with military precision.
-
-
-#STIZZART
-
 # Branden, the Human
 Hi there < PARTNER >, welcome to our team. You are going to be a great addition to < COMPANY >! 
 
