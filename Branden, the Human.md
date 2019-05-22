@@ -66,6 +66,8 @@ There is never a shortage of meetings. I can't remember a job that didn't have m
 
 I believe that meetings work best when they include an agenda (or an intended purpose), an appropriate amount of productive attendees (not too many and not without key participants), and one accountable person running the meeting to a schedule. Meetings should end with clearly defined action items (what's the next step with names and dates) and communication points for participants (what did we accomplish with our time?). 
 
+When thinking about how many people to include in a meeting, remember the [Rule of Seven](https://www.bain.com/insights/decide-and-deliver/). According to Blenko, Mankins, and Rogers, every attendee over seven reduces the likelihood of making a good, quick, executable decision by 10%. Once you hit 16 or 17, your decision effectiveness is close to zero. Send your key communication points to participants and others that need to be informed (the I of RACI) so they can review as opposed to multitask in a meeting.
+
 I like meetings that start on time and end early enough for me to get to my next meeting on time. If I will be late, I will do my best to let you know. Sometimes meetings run long. I will try not to let that impact your meeting.
 
 I will read materials before the meeting to prepare myself and have any questions ready. If I haven’t read the materials, I will tell you. 
@@ -78,13 +80,17 @@ If a meeting completes its intended purpose before it’s scheduled to end, let'
 
 **Humans stating opinions as facts** are a trigger for me. I appreciate reputable references.
 
-**When I ask you to do something that feels poorly defined** you should ask me to clarify. Sometimes I jump ahead without fully explaining myself. Questions can save us all time and effort. 
+**When I ask you to do something that feels poorly defined** you should ask me to clarify. Sometimes I jump ahead without fully explaining myself. Questions can save us all time and effort.
+
+**I am a planner,** and like to work backwards end-state deliverables with actions, names, and dates. I hold people accountable to dates and do not tolerate a last minute miss. If dates need to be adjusted, communicate it early.
 
 **I have trust issues with numbers that don't look real or don't add up,** which means that I may often ask you to show your work like your third grade math teacher did. It's not for partial credit, it's so I can understand how you got to those numbers.
 
-**Ask assertive versus tell assertive.** When you need to ask me to do something, ask me. I respond incredibly well to ask assertiveness (“Branden, can you help with < TASK >?”). I respond poorly to being told what to do (“Branden, do < TASK >”). Unless there is an imminent threat to life and property, in which case, feel free to tell me to move.
+**Ask assertive versus tell assertive.** When you need me to do something, ask me. I respond incredibly well to ask assertiveness (“Branden, can you help with < TASK >?”). I respond poorly to being told what to do (“Branden, do < TASK >”). Unless there is an imminent threat to life and property, in which case, feel free to tell me to move.
 
 **Sometimes I talk a lot.** It's because I get excited and love to exchange ideas. I'm learning to pause and check-in with others. When I get really excited, I sometimes swear. I don't mind some salty language, but I will avoid using it in formal settings.
+
+**I like [RACI](https://thedigitalprojectmanager.com/raci-chart-made-simple/) charts** to help define roles and responsibilities across complex teams and silos when we all work together on a project or as part of business as usual. I love to collaborate, but only when [roles and team identity are well defined](https://hbr.org/2019/03/the-collaboration-blind-spot) to avoid counter-productive activities. 
 
 **If I am on my phone during a meeting for more than 30 seconds, prompt me with a question.** Sometimes my attention wanders, but I can bring it back super quick. 
 
