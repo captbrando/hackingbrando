@@ -25,6 +25,8 @@ I do typically work a little bit on the weekend. This is my choice. **I do not e
 
 **Leadership comes from everywhere.** You don't need a title to lead. I believe in Robert Quinn's [Fundamental State of Leadership](https://hbr.org/2005/07/moments-of-greatness-entering-the-fundamental-state-of-leadership). My favorite people are those who **collaboratively** contribute their knowledge, personality, and skills to a task at hand.
 
+**Be directly responsible** for the work you do. Set your own success criteria, be ready to explain decisions (and be open to disagreements), know the next action (with a name and date), and own it (i.e., [you've got the monkey](https://hbr.org/1999/11/management-time-whos-got-the-monkey)).
+
 **Escalation is sometimes required,** and should be done to elevate critical issues. Do it when someone is not doing their job or you see a big risk, not just to get your way.
 
 **Executives are busy, be clear with asks.** The best employees are those that make their manager's job easier. When you go to an executive, make sure you have clearly summarized the issue you are bringing to them, provided solutions with a recommendation or plan forward, and do it without writing hundreds of words.
