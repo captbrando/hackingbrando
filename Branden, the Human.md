@@ -9,7 +9,7 @@ As you come up to speed, we need to define how you and I will work. I've created
 
 You and I will plan on a 1:1 every week for at least 30 minutes. This is your meeting, not mine. I would prefer we discuss topics of substance, not just updates. I'm sure we will both be guilty of asking for updates on things while we are talking, but we can get those updates via IM, text, or by including them in the meeting invite just as easily. I'd prefer to tackle bigger subjects during our 1:1s. 
 
-We will also have a weekly staff meeting with our team including your peers. This meeting is designed to be a mix of tactical touch points with substantive topics that affect most or all of the team. We may include guest speakers or other people outside our direct team that support what we do. Similar to 1:1s, we aren’t discussing status at this meeting, but issues of substance that affect the whole team. If we have a large project bringing us together, we may leverage that space for our meeting to avoid meeting fatigue.
+We will also touch with the team weekly (including your peers). This meeting is designed to be a mix of tactical touch points with substantive topics that affect most or all of the team. We may include guest speakers or other people outside our direct team that support what we do. Similar to 1:1s, we aren’t discussing status at this meeting, but issues of substance that affect the whole team. If we have a large project bringing us together, we may leverage that space for our meeting to avoid meeting fatigue.
 
 You can message me at any time. I will respond as quickly as I am able. I also read all my email and work to get close to *Inbox Zero* every week. I am not tied to my inbox and tend to process in batches. If you need me to look at something quickly, message me to get my attention. 
 
@@ -39,7 +39,7 @@ I do typically work a little bit on the weekend. This is my choice. **I do not e
 
 **I like action.** Long meetings where we debate potential options are often valuable, but I believe starting is the best way to begin learning and make progress. At some point, we all have to take a step to move toward a goal. I know this will annoy those who like to debate.
 
-**I believe in the technical debt snowball effect of continually fixing small things.** Just like the old andon cords on the Toyota Production Line, fixing problems in the present will save massive time in the future. There are always bugs that can be fixed.
+**I believe in the technical debt snowball effect of continually fixing small things.** Just like the old [*andon* cords](https://www.sixsigmadaily.com/what-is-an-andon-cord/) on the Toyota Production Line, fixing problems in the present will save massive time in the future. There are always bugs that can be fixed.
 
 **I assume everyone has good intentions.** I'm also a glass half full guy and always try to find something positive when bad things happen. 
 
@@ -47,7 +47,7 @@ I do typically work a little bit on the weekend. This is my choice. **I do not e
 
 ## Feedback Protocol
 
-I like feedback. I like to both give and receive. It helps to create closed-loop communication. 
+I like feedback and coaching—both giving and receiving. It helps to create closed-loop communication. 
 
 At < COMPANY >, there is a formal, semi-annual feedback cycle. We set our goals annually, but we review and adjust half way through the year. I will send you information on my goals as well as expectations for what you should prepare for your goals. You will draft your goals and we will review in one of our 1:1s. Alignment is important. You should expect that your goals align with mine, which will align with our BU and company goals. While we review your goals, I’ll ask for feedback on my performance.
 
@@ -55,12 +55,14 @@ Review periods are not the only time we’ll exchange feedback. This will be a r
 
 Disagreement is ok. We will learn to efficiently disagree with each other and trust and respect each other more. Ideas don’t get better when everyone is in agreement. 
 
+I expect you to hold me accountable to these principles just like I will hold you accountable to them.
+
 ## Escalation Protocol
 
 Sometimes we will run into a brick wall when trying to accomplish a task. Over the years, I have learned a few things about how this occurs.
 
 * **My priority may not be in line with your priority.** Things important to me may not be important to you, and vice versa. Conflict with other groups often stems from misaligned goals and priorities. 
-* **Escalation is not for getting your way.** However, it can be a tool to highlight broken process or organizational dysfunction that is not in line with the overall goals.
+* **Escalation is not for getting your way.** However, it can be a tool to highlight broken process or organizational dysfunction that is not in line with our overall goals.
 
 ## Meeting Protocol
 
@@ -78,15 +80,15 @@ If a meeting completes its intended purpose before it’s scheduled to end, let'
 
 ## Nuance and Errata
 
-**I am analytical**, which means that I ask lots of questions and want to understand your point of view. If you make an assertion, be prepared to back it up with data. [Weasel words](https://en.wikipedia.org/wiki/Weasel_word) make me believe you didn't do your research and are operating on gut instinct.
+**I am analytical**, which means that I ask lots of questions and want to understand your point of view. If you make an assertion, be prepared to back it up with data. [Weasel words](https://en.wikipedia.org/wiki/Weasel_word) make me think you didn't do your research and are operating on gut instinct.
 
 **Humans stating opinions as facts** are a trigger for me. I appreciate reputable references.
 
-**When I ask you to do something that feels poorly defined** you should ask me to clarify. Sometimes I jump ahead without fully explaining myself. Questions can save us all time and effort.
+**When I ask you to do something that feels poorly defined** you should ask me to clarify. Sometimes I jump ahead without fully explaining myself. Questions can save us all time and effort (pull the *andon* cord).
 
 **I am a planner,** and like to work backwards end-state deliverables with actions, names, and dates. I hold people accountable to dates and do not tolerate a last minute miss. If dates need to be adjusted, communicate it early.
 
-**I have trust issues with numbers that don't look real or don't add up,** which means that I may often ask you to show your work like your third grade math teacher did. It's not for partial credit, it's so I can understand how you got to those numbers.
+**I have trust issues with numbers that don't look real or don't add up,** which means that I may often ask you to show your work like your third grade math teacher did. It's not for partial credit, it's so I can understand from the bottom up.
 
 **Ask assertive versus tell assertive.** When you need me to do something, ask me. I respond incredibly well to ask assertiveness (“Branden, can you help with < TASK >?”). I respond poorly to being told what to do (“Branden, do < TASK >”). Unless there is an imminent threat to life and property, in which case, feel free to tell me to move.
 
@@ -96,4 +98,4 @@ If a meeting completes its intended purpose before it’s scheduled to end, let'
 
 **If I am on my phone during a meeting for more than 30 seconds, prompt me with a question.** Sometimes my attention wanders, but I can bring it back super quick. 
 
-**This document is a [living, breathing thing](https://github.com/captbrando)** and is not yet complete. I will update it frequently and would appreciate your feedback. 
+**This document is a [living, breathing thing](https://github.com/captbrando/hackingbrando)** and is not yet complete. I will update it frequently and would appreciate your feedback. 
