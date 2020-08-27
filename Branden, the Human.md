@@ -90,7 +90,7 @@ If a meeting completes its intended purpose before it’s scheduled to end, let'
 
 **I have trust issues with numbers that don't look real or don't add up,** which means that I may often ask you to show your work like your third grade math teacher did. It's not for partial credit, it's so I can understand from the bottom up.
 
-**Ask assertive versus tell assertive.** When you need me to do something, ask me. I respond incredibly well to ask assertiveness (“Branden, can you help with < TASK >?”). I respond poorly to being told what to do (“Branden, do < TASK >”). Unless there is an imminent threat to life and property, in which case, feel free to tell me to move.
+**Ask assertive versus tell assertive.** When you need me to do something, ask me. I respond incredibly well to ask assertiveness (“Branden, can you help with < TASK >?”). I respond poorly to being told what to do (“Branden, do < TASK >”). Unless there is an imminent threat to life and property, in which case, please tell me to move!
 
 **Sometimes I talk a lot.** It's because I get excited and love to exchange ideas. I'm learning to pause and check-in with others. When I get really excited, I sometimes swear. I don't mind some salty language, but I will avoid using it in formal settings.
 
