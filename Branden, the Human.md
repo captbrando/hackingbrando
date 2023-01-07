@@ -9,17 +9,17 @@ This is a living document, which is why it's here on Github. After reading this,
 
 ## The Average Week
 
-You and I will plan on a 1:1 every week for at least 30 minutes. This is your meeting, not mine. I would prefer we discuss topics of substance, not just updates. I'm sure we will both be guilty of asking for updates on things while we are talking, but we can get those updates via IM, text, or by including them in the meeting invite just as easily. I'd prefer to tackle bigger subjects during our 1:1s.
+You and I will plan on a 1:1 every week for at least 30 minutes. If you want to move this to every other week once we get into a good flow, I'm happy to do this. This is *your* meeting, not mine. I would prefer we discuss topics of substance, not just updates. I'm sure we will both be guilty of asking for updates on things while we are talking, but we can get those updates via IM (Slack/Teams), text, or by including them in the meeting invite just as easily. I'd prefer to tackle bigger subjects during our 1:1s.
 
 We will also touch with the team weekly (including your peers). This meeting is designed to be a mix of tactical touch points with substantive topics that affect most or all of the team. We may include guest speakers or other people outside our direct team that support what we do. Similar to 1:1s, we aren’t discussing status at this meeting, but issues of substance that affect the whole team. If we have a large project bringing us together, we may leverage that space for our meeting to avoid meeting fatigue.
 
-You can message me at any time. I will respond as quickly as I am able. I also read all my email and work to get close to *Inbox Zero* every week. I am not tied to my inbox and tend to process in batches. If you need me to look at something quickly, message me to get my attention.
+You can message me at any time. I will respond as quickly as I am able. I also read all my email and work to get close to *Inbox Zero* every week. I am not tied to my inbox and generally process it in batches. If you need me to look at something quickly, message me to get my attention.
 
-I like emails [written with military precision](https://hbr.org/2016/11/how-to-write-email-with-military-precision?autocomplete=true). Not all my emails will look like this. If I am trying to get an executive's attention, I follow this format. If you want to get my attention, you should follow it too.
+I like [precicely written emails](https://hbr.org/2016/11/how-to-write-email-with-military-precision?autocomplete=true). Not all my emails will look like this. If I am trying to get an executive's attention, I follow this format. If you want to get my attention, you should follow it too.
 
 If I am traveling, I will let you know. We will keep our meetings, noting I may need to adjust based on my current time zone.
 
-I do typically work a little bit on the weekend. This is my choice. **I do not expect you to work on the weekend, UNLESS we are doing validations for a production deployment.** I might email or text you, but unless I let you know it's urgent, it can always wait until work begins for you on Monday.
+I do typically work a little bit on the weekend. This is my choice. **I do not expect you to work on the weekend, UNLESS your role requires you to perform tasks during those times.** I might email or text you, but unless I let you know it's urgent, it can always wait until work begins for you at the beginning of your work week (generally Monday, but Sunday in other areas of the globe).
 
 ## Guiding Principles
 
@@ -41,17 +41,21 @@ I do typically work a little bit on the weekend. This is my choice. **I do not e
 
 **I like action.** Long meetings where we debate potential options are often valuable, but I believe starting is the best way to begin learning and make progress. At some point, we all have to take a step to move toward a goal. I know this will annoy those who like to debate.
 
+**Bad news does not age like fine wine.** Bubble up problems early, offer solutions. Don't sit on bad news. Transparency is critical for a highly functional, generative culture. I like status reports that highlight blockers and corrective actions with names and dates.
+
 **I believe in the technical debt snowball effect of continually fixing small things.** Just like the old [*andon* cords](https://www.sixsigmadaily.com/what-is-an-andon-cord/) on the Toyota Production Line, fixing problems in the present will save massive time in the future. There are always bugs that can be fixed.
 
 **I assume everyone has good intentions.** I'm also a glass half full guy and always try to find something positive when bad things happen.
 
 **Conflict can be productive** when conflicting or differing ideas are exchanged in a way where everyone feels equally heard, respected, and unafraid to voice a dissenting opinion. We won't always agree, but my goal is to reach a mutually comfortable resolution (even if we disagree).
 
+**I am data driven,** and prefer to debate issues with clear, valid, and observable evidence. This makes decision making orders of magnitude easier and removes guesswork. One of my favorite quotes from Apollo 13 is Ed Harris as Gene Kranz coaching his team with this statement: "Let's work the problem, people. **Let's not make things any worse by guessing.**"
+
 ## Feedback Protocol
 
-I like feedback and coaching—both giving and receiving. It helps to create closed-loop communication.
+I like feedback and coaching—--both giving and receiving. It helps to create closed-loop communication.
 
-At < COMPANY >, there is a formal, semi-annual feedback cycle. We set our goals annually, but we review and adjust half way through the year. I will send you information on my goals as well as expectations for what you should prepare for your goals. You will draft your goals and we will review in one of our 1:1s. Alignment is important. You should expect that your goals align with mine, which will align with our BU and company goals. While we review your goals, I’ll ask for feedback on my performance.
+At < COMPANY >, there is a formal feedback cycle. We set our goals annually. I will send you information on my goals as well as expectations for what you should prepare for your goals. You will draft your goals and we will review in one of our 1:1s. Alignment is important. You should expect that your goals align with mine, which will align with our BU and company goals. While we review your goals, I’ll ask for feedback on my performance.
 
 Review periods are not the only time we’ll exchange feedback. This will be a recurring topic in our 1:1s. I am going to ask you for feedback in 1:1s regularly. I am never going to stop doing this no matter how many times you say you have no feedback for me.
 
