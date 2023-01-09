@@ -15,7 +15,7 @@ We will also touch with the team weekly (including your peers). This meeting is 
 
 You can message me at any time. I will respond as quickly as I am able. I also read all my email and work to get close to *Inbox Zero* every week. I am not tied to my inbox and generally process it in batches. If you need me to look at something quickly, message me to get my attention.
 
-I like [precicely written emails](https://hbr.org/2016/11/how-to-write-email-with-military-precision?autocomplete=true). Not all my emails will look like this. If I am trying to get an executive's attention, I follow this format. If you want to get my attention, you should follow it too.
+I like [precisely written emails](https://hbr.org/2016/11/how-to-write-email-with-military-precision?autocomplete=true). Not all my emails will look like this. If I am trying to get an executive's attention, I follow this format. If you want to get my attention, you should follow it too.
 
 If I am traveling, I will let you know. We will keep our meetings, noting I may need to adjust based on my current time zone.
 
