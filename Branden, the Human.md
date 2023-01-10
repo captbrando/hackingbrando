@@ -33,7 +33,7 @@ I do typically work a little bit on the weekend. This is my choice. **I do not e
 
 **Executives are busy, be clear with asks.** The best employees are those that make their manager's job easier. When you go to an executive, make sure you have clearly summarized the issue you are bringing to them, provided solutions with a recommendation or plan forward, and do it without writing hundreds of words.
 
-**I like constant improvement, this is called *kaizen (改善)*.** I break complex systems down into components to understand them. When I see large or small inefficiencies in systems, I’d like to fix them with your help.
+**I like constant improvement, this is called *kaizen (改善)*.** I break complex systems down into components to understand them. When I see inefficiencies in systems, I’d like to fix them with your help.
 
 **A certain amount of process is healthy.** I like efficient, predictable outcomes with low variability. This stems from my consulting days where I led large teams performing complex work. I needed to ensure that Consultant A would give the same result that Consultant B would give—even when separated by an ocean. Inefficient, excess, manual, or non-value-add process drives me crazy.
 
@@ -88,7 +88,7 @@ If a meeting completes its intended purpose before it’s scheduled to end, let'
 
 **I am analytical**, which means that I ask lots of questions and want to understand your point of view. If you make an assertion, be prepared to back it up with data. [Weasel words](https://en.wikipedia.org/wiki/Weasel_word) make me think you didn't do your research and are operating on gut instinct.
 
-**Humans stating opinions as facts** are a trigger for me. I appreciate reputable references.
+**Humans stating opinions as facts** elicit suspicion. I appreciate reputable references.
 
 **When I ask you to do something that feels poorly defined** you should ask me to clarify. Sometimes I jump ahead without fully explaining myself. Questions can save us all time and effort (pull the *andon* cord).
 
