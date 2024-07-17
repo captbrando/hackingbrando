@@ -3,7 +3,7 @@ Hi there < PARTNER >, welcome to our team. You are going to be a great addition 
 
 We're a complex organization, and it will easily take you six months to begin to figure out how this place works, and possibly nine to really hit your stride and be as effective as you want. Everyone here was the new kid once. You should meet all of your peers in my organization as well as other orgs, and meet my peers and our leadership team. Ask questions, take notes, learn how they work. Understand how you may soon add value and learn our lingo. Yes, we sure do use a LOT of acronyms around here.
 
-As you come up to speed, we need to define how you and I will work. I've created this handy user guide on me and how I work (intended to accelerate our working relationship), inspired/borrowed heavily upon by fantastic work from [@Rands](https://twitter.com/rands/). The audience of this guide is primarily those working directly with me, however, it's a useful guide for anyone. Some things will not apply to everyone; for example, weekly 1:1s.
+As you come up to speed, we need to define how you and I will work. I've created this handy user guide on me and how I work (intended to accelerate our working relationship), inspired/borrowed heavily upon by fantastic work from [@Rands](https://randsinrepose.com). The audience of this guide is primarily those working directly with me, however, it's a useful guide for anyone. Some things will not apply to everyone; for example, weekly 1:1s.
 
 This is a living document, which is why it's here on Github. After reading this, you will learn what you can expect out of a typical week, how I like to work, what my guiding principles are, and the things that make me, well, ME.
 
@@ -76,13 +76,46 @@ There is never a shortage of meetings. I can't remember a job that didn't have m
 
 I believe that meetings work best when they include an agenda (or an intended purpose), an appropriate amount of productive attendees (not too many and not without key participants), and one accountable person running the meeting to a schedule. Meetings should end with clearly defined action items (what's the next step with names and dates) and communication points for participants (what did we accomplish with our time?).
 
-When thinking about how many people to include in a meeting, remember the [Rule of Seven](https://www.bain.com/insights/decide-and-deliver/). According to Blenko, Mankins, and Rogers, every attendee over seven reduces the likelihood of making a good, quick, executable decision by 10%. Once you hit 16 or 17, your decision effectiveness is close to zero. Send your key communication points to participants and others that need to be informed (the I of RACI) so they can review as opposed to multitask in a meeting.
+When thinking about how many people to include in a meeting, remember the [Rule of Seven](https://www.bain.com/insights/decide-and-deliver/). According to Blenko, Mankins, and Rogers, every attendee over seven reduces the likelihood of making a good, quick, executable decision by 10%. Once you hit 16 or 17, your decision effectiveness is close to zero. Send your key communication points to participants and others that need to be informed (the I of RACI, see below for more info on RACI Charts) so they can review as opposed to multitask in a meeting.
 
 I like meetings that start on time and end early enough for me to get to my next meeting on time. If I will be late, I will do my best to let you know. Sometimes meetings run long. I will try not to let that impact your meeting.
 
 I will read materials before the meeting to prepare myself and have any questions ready. If I haven’t read the materials, I will tell you.
 
 If a meeting completes its intended purpose before it’s scheduled to end, let's end early. If it’s clear the intended goal won’t be achieved in the allotted time, let’s stop the meeting before time is up and determine how to finish the meeting later.
+
+## My Favorite Status Report
+
+Status reports should be easy to consume on any device, quickly communicate wins and blockers, and ensure everyone who needs to know is included. I prefer to do these over email or messenger, as long as all the correct people can easily see it and act on it. It should be text-based, color-coded, and easily consumable on a laptop, tablet, or phone.
+
+General rules:
+* Every meeting on the topic should generate at least one line of text in the report.
+* Tag (@) anyone who is mentioned in the report.
+* Completed steps should move the project forward. Setting up a future meeting does not meet this criteria.
+* Highlight any upcoming deadlines (within 7 days) and tag (@) the responsible delivery person.
+* Use colors to highlight good and bad. People don't like seeing their name in red, and they will work to correct.
+* The TO line should include your direct manager and anyone directly tagged in the report, the CC line should include anyone in the I part of the RACI chart, plus anyone's direct supervisor who is in the TO line.
+* Use a frequency appropriate for the project. If there are a lot of moving parts that warrant a daily report, send daily. Weekly is probably sufficient.
+* If using email, be sure to go into your sent items and reply to the previous report adding your new update on top. This provides context for any recipient to scroll and answer the question, "How did we end up here?"
+
+### Layout
+
+- Needs/Blockers:
+	- Critical items first. Discuss anything you need or anything blocking you.
+	- Should tag (@) people where possible and use /Red/Yellow/Highlights
+- Watch Items:
+	- These things will turn into needs/blockers if not closely monitored. 
+	- Tag (@) any people running critical path workstreams with details/data. 
+	- Include risks that may pop up like resource contention.
+- Completed from previous update:
+	- Add anything here that would be relevant. 
+	- ACTIONS. VERIFIABLE. VISIBLE. I.e., setting up a meeting is not something you completed.
+	- Include people who completed as well as any dates.
+- Next Steps:
+	- Here’s where you talk about the next items for the work stream.
+	- If this is a big project that is near the end and you have a short list of items to complete, just list all outstanding work.
+	- If this is a big project organized with multiple workstreams, highlight each one delivery by commitment.
+	- Tag people who are doing the next step (@) and include dates.
 
 ## Nuance and Errata
 
@@ -92,7 +125,7 @@ If a meeting completes its intended purpose before it’s scheduled to end, let'
 
 **When I ask you to do something that feels poorly defined** you should ask me to clarify. Sometimes I jump ahead without fully explaining myself. Questions can save us all time and effort (pull the *andon* cord).
 
-**I am a planner,** and like to work backwards end-state deliverables with actions, names, and dates. I hold people accountable to dates and do not tolerate a last minute miss. If dates need to be adjusted, communicate it early.
+**I am a planner,** and like to work backwards from end-state deliverables with actions, names, and dates. I hold people accountable to dates and do not tolerate a last minute miss. When life happens and dates need to be adjusted, communicate it early.
 
 **I have trust issues with numbers that don't look real or don't add up,** which means that I may often ask you to show your work like your third grade math teacher did. It's not for partial credit, it's so I can understand from the bottom up.
 
@@ -100,7 +133,7 @@ If a meeting completes its intended purpose before it’s scheduled to end, let'
 
 **Sometimes I talk a lot.** It's because I get excited and love to exchange ideas. I'm learning to pause and check-in with others. When I get really excited, I sometimes swear. I don't mind some salty language, but I will avoid using it in formal settings.
 
-**I like [RACI](https://thedigitalprojectmanager.com/raci-chart-made-simple/) charts** to help define roles and responsibilities across complex teams and silos when we all work together on a project or as part of business as usual. I love to collaborate, but only when [roles and team identity are well defined](https://hbr.org/2019/03/the-collaboration-blind-spot) to avoid counter-productive activities.
+**I like [RACI](https://thedigitalprojectmanager.com/raci-chart-made-simple/) charts** to help define roles and responsibilities across complex teams and silos when we all work together on a project or as part of business as usual. I love to collaborate, but only when [roles and team identity are well defined](https://hbr.org/2019/03/the-collaboration-blind-spot) to avoid counter-productive activities. I would much rather have the argument on roles and responsibilities before the first task starts.
 
 **If I am on my phone during a meeting for more than 30 seconds, prompt me with a question.** Sometimes my attention wanders, but I can bring it back super quick.
 
