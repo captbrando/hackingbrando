@@ -102,7 +102,7 @@ General rules:
 
 - Needs/Blockers:
 	- Critical items first. Discuss anything you need or anything blocking you.
-	- Should tag (@) people where possible and use Red / ==Yellow== highlights
+	- Should tag (@) people where possible and highlight their names in Red or Yellow.
 - Watch Items:
 	- These things will turn into needs/blockers if not closely monitored. 
 	- Tag (@) any people running critical path workstreams with details/data. 
